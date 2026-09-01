@@ -1,5 +1,6 @@
 # Pipeline-monitoramento-sensores
-<img width="1184" height="711" alt="image" src="https://github.com/user-attachments/assets/c1d2bdbc-5341-47e7-8c46-3356b3fad097" />
+<img width="1186" height="668" alt="image" src="https://github.com/user-attachments/assets/6b424853-ed57-4d75-adae-bc3dcf1c66d8" />
+
 
 Este projeto simula um fluxo contínuo (pipeline) de dados, desde a geração das métricas de hardware até a visualização final em um painel interativo. O objetivo é demonstrar a extração, carga e transformação (ETL) de dados utilizando Python, banco de dados relacional e Microsoft Power BI.
 
